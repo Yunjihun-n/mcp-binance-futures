@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+.env.local
+strategies/audit.jsonl
+strategies/*.json
+!strategies/.gitkeep
+.DS_Store
+*.log
+.idea/
+.vscode/
